@@ -1,0 +1,34 @@
+.player{
+    width:300px;
+
+}
+
+div{
+    width:320px;
+    border:20px dashed  darkorchid;
+    background-color: green;
+    display:inline-block;
+    text-align: center;
+    padding:20px;
+    margin:20px;
+    border-radius: 60px;
+    box-shadow: 10px 10px 10px black;
+}
+div p{
+    text-align: justify;
+}
+#greenDiv{
+    background-color: darkcyan;
+}
+#hazlewoodDiv{
+    background-color: darkgoldenrod;
+}
+#headDiv{
+    background-color: rgb(250,200,150);
+}
+
+
+nav{
+    font-size: 3rem;
+    background-color: deeppink;
+}
